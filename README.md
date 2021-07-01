@@ -10,3 +10,7 @@ Make sure to install the following
   
 Docs
 https://docs.expo.io
+
+Expo: https://expo.io/accounts/chikjib/projects/story_line
+github: https://github.com/chikjib/storyline
+Api used for the project was built using Python/Django 
